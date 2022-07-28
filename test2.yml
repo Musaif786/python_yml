@@ -1,0 +1,23 @@
+---
+person:
+  name: 'Musaif'
+  age: '24'
+  gender: 'male'
+  height: '5.6'
+  lucky_number: 
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+  programming_language: 
+    - name: 'Python'
+      release_year: 2000
+    - name: 'java'
+      release_year: 1991
+  languages_know: [name: 'Hindi', name: 'Telugu']
+  details:
+    state: 'Telangana'
+    city: 'Hyderabad'
+    more: [place: 'Banjara Hill', street: 'MLA Colony']
+    

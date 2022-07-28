@@ -1,0 +1,29 @@
+"""
+print(yaml.load("""
+ - Hesperiidae
+ - Papilionidae
+ - Apatelodidae
+ - Epiplemidae
+ """, Loader=yaml.Loader)
+      )
+
+
+#print("Hello world")
+
+"""
+--
+if __name__ =='__main__':
+    strm = open("E:\\React-js\\python_yaml\\test.yaml",'r')
+    dic = yaml.load_all(strm, Loader=yaml.Loader)
+
+    for doc in dic:
+        print("New docs")
+        for key, val in doc.items():
+            print(key + " : " + str(val))
+            if type(val) is list:
+                print(str(len(val)))
+"""
+ame:"Musaif"
+age: 20
+ocupation :"software developer"
+"""
