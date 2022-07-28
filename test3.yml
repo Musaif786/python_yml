@@ -1,0 +1,55 @@
+---
+person2:
+  name: 'Manohar'
+  age: '23'
+  gender: 'male'
+  m_f: true
+  height: '5.6'
+  lucky_number: 
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+  programming_language: 
+    - name: 'Python'
+      release_year: 2000
+    - name: 'Splunk'
+      release_year: 2003
+    - name: 'java'
+      release_year: 1991
+  languages_know: [lang1: 'Hindi', lang2: 'Telugu', lang3: 'English', language]
+  details:
+    city: 'Hyderabad'
+    more: [place: 'Banjara Hill', street: 'MLA Colony']
+    state: 'Telangana'
+    long_dec: >
+     Hi All, 
+     This is long text for testing yml 
+person3: 
+  name: "ajay"
+  age: '25'
+  gender: 'male'
+  m_f: true
+  height: '5.6'
+  lucky_number: 
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+  programming_language: 
+    - name: 'Python'
+      release_year: 2000
+    - name: 'Splunk'
+      release_year: 2003
+    - name: 'java'
+      release_year: 1991
+  languages_know: [lang1: 'Hindi', lang2: 'Telugu', lang3: 'English', language]
+  details:
+    city: 'Hyderabad'
+    more: [place: 'Banjara Hill', street: 'MLA Colony']
+    state: 'Telangana'
+    long_dec: >
+     Hi All, 
+     This is long text for testing yml 
