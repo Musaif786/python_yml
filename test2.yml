@@ -20,4 +20,7 @@ person:
     state: 'Telangana'
     city: 'Hyderabad'
     more: [place: 'Banjara Hill', street: 'MLA Colony']
+    long_dec: >+
+     Hi All, 
+     This is long text for testing yml 
     
