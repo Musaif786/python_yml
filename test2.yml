@@ -13,14 +13,16 @@ person:
   programming_language: 
     - name: 'Python'
       release_year: 2000
+    - name: 'Splunk'
+      release_year: 2003
     - name: 'java'
       release_year: 1991
-  languages_know: [name: 'Hindi', name: 'Telugu']
+  languages_know: [lang1: 'Hindi', lang2: 'Telugu', lang3: 'English', language]
   details:
-    state: 'Telangana'
     city: 'Hyderabad'
     more: [place: 'Banjara Hill', street: 'MLA Colony']
-    long_dec: >+
+    state: 'Telangana'
+    long_dec: >
      Hi All, 
      This is long text for testing yml 
     
