@@ -1,0 +1,33 @@
+---
+employees:
+  id: &a 5
+  name: 'Musaif'
+  emp_id: 'SG1162'
+  DOJ: '6th april 2022'
+  personal_details:
+    - age: 24
+    - married: false
+    - state: 'Telangana'
+  hobbies: ['Reading books','indore games','coding']
+employees1:
+  id: *a
+  name: 'Ajay'
+  emp_id: 'SG1122'
+  DOJ: '5th June 2022'
+  personal_details:
+    - age: 25
+    - married: false
+    - state: 'Telangana'
+  hobbies: ['Movies','PUBG games','traveling']
+employees2:
+  name: 'Manohar'
+  emp_id: 'SG1162'
+  DOJ: '1st may 2022'
+  personal_details:
+    - age: 26
+    - married: false
+    - state: 'Telangana'
+    - date: '2022-july-25'
+  hobbies: ['Reading books','indore games','coding']
+  Znotes: >
+    Hello all this is multi line comments
