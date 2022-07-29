@@ -1,5 +1,5 @@
 import qrcode as qr
 
 
-Sacnner = qr.make("https://musaif.netlify.com")
-Sacnner.save("Musaif_portfolio.png")
+scan = qr.make("https://musaif.netlify.com")
+scan.save("Musaif_portfolio.png")
